@@ -1,2 +1,0 @@
-# Presentations
-PowerPoint Slides
