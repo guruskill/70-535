@@ -68,4 +68,4 @@ https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/
 *<b>Lab Home:*</b>
  https://github.com/guruskill/70-535 Labs folder 70-534-00-Labs.pptx (or .PDF)
  Lab-Case-Study-1-Web-App.md 
-
+https://github.com/guruskill/70-535/blob/master/Labs/Lab-Case-Study-1-Web-App.md

@@ -1,6 +1,5 @@
 # 70-535 Architecting Azure Solutions Exam Preparation
 
-## Key Information
 ### Q: <b>Do I need to do all the labs?</b>
 **A:** No, however, as you do more labs, you strongly increase your likelihood of passing the exam! Target minimum of 2-3 per session topic area, maybe a couple more for the big target areas (20-25% topics)
 
