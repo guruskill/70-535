@@ -1,8 +1,8 @@
 # 70-535 Architecting Azure Solutions Exam Preparation
 
 ## Key Information
-### Q: Do I need to do all the labs?
-**A:** No, however, as you do more labs, you strongly increase your likelihood of passing the exam! Target minimum of 2-3 per session, maybe a couple more for the big target areas (20-25% topics)
+### Q: <b>Do I need to do all the labs?</b>
+**A:** No, however, as you do more labs, you strongly increase your likelihood of passing the exam! Target minimum of 2-3 per session topic area, maybe a couple more for the big target areas (20-25% topics)
 
 **You may have to click on “How To” in the left Navigation pane to get to the step-by-step on some Lab links**
 
@@ -44,10 +44,30 @@ Win https://docs.microsoft.com/en-us/azure/virtual-machines/linux/tutorial-manag
 4. Use Azure Security Center to monitor Windows virtual machines
 https://docs.microsoft.com/en-us/azure/virtual-machines/windows/tutorial-azure-security
 
-##Case Study
+## Case Study (Team Exercises)
 
+1) <b>Web App - SOLUTION DESIGN</b>
+https://github.com/guruskill/70-535/blob/master/Labs/Lab-Case-Study-1-Web-App.md
 
-#Step-By-Step Labs 
+2) <b>Acquisition and Migration of Fabrikam</b> Team Collaboration Exercise 
+
+    a) 70-535-00-Labs.pptx https://github.com/guruskill/70-535/blob/master/Labs/70-535-00-Labs.pptx
+    
+    b) 70-535-00-Labs.pdf https://github.com/guruskill/70-535/blob/master/Labs/70-535-00-Labs.pdf
+
+3) <b> Operational Design </b> Team or Individual exercise 
+
+    a) 70-535-00-Labs.pptx https://github.com/guruskill/70-535/blob/master/Labs/70-535-00-Labs.pptx
+    
+    b) 70-535-00-Labs.pdf https://github.com/guruskill/70-535/blob/master/Labs/70-535-00-Labs.pdf
+
+4) <b>Using Isolation Security Zones to Enhance Security Posture </b> Team or Individual exercise
+
+    a) 70-535-00-Labs.pptx https://github.com/guruskill/70-535/blob/master/Labs/70-535-00-Labs.pptx
+    
+    b) 70-535-00-Labs.pdf https://github.com/guruskill/70-535/blob/master/Labs/70-535-00-Labs.pdf
+
+# Step-By-Step Labs 
 **Getting Started https://docs.microsoft.com/en-us/azure/#get-started**
 
 ### #1 Design Azure Resource Manager (ARM) networking (5–10%)
