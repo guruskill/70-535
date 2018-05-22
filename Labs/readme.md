@@ -1,15 +1,54 @@
-
-
 # 70-535 Architecting Azure Solutions Exam Preparation
 
 ## Key Information
 ### Q: Do I need to do all the labs?
 **A:** No, however, as you do more labs, you strongly increase your likelihood of passing the exam! Target minimum of 2-3 per session, maybe a couple more for the big target areas (20-25% topics)
-* **Videos of the NYC event on 6/2017 can be found here: http://itproguru.com/expert/2017/07/70-534-azure-certification-jump-start-architecting-azure-solutions-event-series-content-v2017-06/**
-* **Mark Grimes @ MSFT Certification Exam Overview 70-534 https://mva.microsoft.com/en-US/training-courses/certification-exam-overview-70534-architecting-microsoft-azure-solutions-17406**
-* **Some Lab links you may have to click on “How To” in the left Navigation pane to get to the step-by-step**
 
-**Step-By-Step Labs:** 
+**You may have to click on “How To” in the left Navigation pane to get to the step-by-step on some Lab links**
+
+# Solution Labs
+
+## Create, Manage & Monitor Linux Workloads 
+1. Create and Manage Linux VMs with the Azure CLI 2.0 in Azure Cloud Shell https://docs.microsoft.com/en-us/azure/virtual-machines/linux/tutorial-manage-vm
+
+2. Deploy Web Server
+
+    a) Install a LAMP web server on a Linux virtual machine in Azure https://docs.microsoft.com/en-us/azure/virtual-machines/linux/tutorial-lamp-stack
+
+    b) Install a LEMP web server on a Linux virtual machine in Azure https://docs.microsoft.com/en-us/azure/virtual-machines/linux/tutorial-lemp-stack
+
+    c) Deploy a Spring Boot application on Linux in the Azure Container Service (has prerequisites) https://docs.microsoft.com/en-us/java/azure/spring-framework/deploy-spring-boot-java-app-on-linux
+
+3. Monitor and update a Linux virtual machine in Azure using Cloud Shell https://docs.microsoft.com/en-us/azure/virtual-machines/linux/tutorial-monitoring 
+
+4. Use Azure Security Center to monitor Linux virtual machines https://docs.microsoft.com/en-us/azure/virtual-machines/linux/tutorial-azure-security
+
+5.  Use Azure Security Center to monitor Linux virtual machines https://docs.microsoft.com/en-us/azure/virtual-machines/linux/tutorial-azure-security
+
+
+## Create, Manage & Monitor Windows workloads 
+1. Creating a VM from an Azure Resource Manager template using Cloud Shell – PowerShell
+Win https://docs.microsoft.com/en-us/azure/virtual-machines/linux/tutorial-manage-vm
+
+
+2. Deploy Web and Database
+
+    a. Create a Windows virtual machine install IIS with the Azure CLI 2.0 https://docs.microsoft.com/en-us/azure/virtual-machines/windows/quick-create-cli
+
+    b. Install the IIS\\.NET\\SQL in a Windows VM with Azure Cloud Shell 
+    https://docs.microsoft.com/en-us/azure/virtual-machines/windows/tutorial-iis-sql
+
+3. Monitor and update a Windows virtual machine in Azure using Cloud Shell https://docs.microsoft.com/en-us/azure/virtual-machines/windows/tutorial-monitoring
+
+
+4. Use Azure Security Center to monitor Windows virtual machines
+https://docs.microsoft.com/en-us/azure/virtual-machines/windows/tutorial-azure-security
+
+##Case Study
+
+
+#Step-By-Step Labs 
+**Getting Started https://docs.microsoft.com/en-us/azure/#get-started**
 
 ### #1 Design Azure Resource Manager (ARM) networking (5–10%)
 vnet-to-vnet lab https://github.com/michaelsrichter/70534ExamPrep/tree/master/Labs/vnet-to-vnet
@@ -40,7 +79,6 @@ point-to-site lab https://github.com/michaelsrichter/70534ExamPrep/tree/master/L
 ### #5 Design Azure Web and Mobile Apps (5–10%)
 * **Creating and Managing a Web App & Services https://github.com/guruskill/70-534/blob/master/Labs/WebAppsLab.md** 
 * **Creating and Managing a Mobile App https://github.com/guruskill/70-534/blob/master/Labs/MobileAppsLab.md**
-
 #### Azure AD
 * **Creating and Managing a Mobile App https://github.com/guruskill/70-534/blob/master/Labs/MobileAppsLab.md** 
 * **Net Calling a web API in a web app using Azure AD and OpenID Connect https://azure.microsoft.com/en-us/resources/samples/active-directory-dotnet-webapp-webapi-openidconnect/** 
@@ -49,6 +87,8 @@ point-to-site lab https://github.com/michaelsrichter/70534ExamPrep/tree/master/L
 * **Java Calling the Azure AD Graph API in a web application https://azure.microsoft.com/en-us/resources/samples/active-directory-java-graphapi-web/**
 * **Node.js Integrating Azure AD into a NodeJS web application https://azure.microsoft.com/en-us/resources/samples/active-directory-node-webapp-openidconnect/**
 * **Node.js Securing a web API with Azure AD https://azure.microsoft.com/en-us/resources/samples/active-directory-node-webapi/**
+
+**Learn and Explore more on App Service Mobile Apps https://azure.microsoft.com/en-us/documentation/learning-paths/appservice-mobileapps/**
 
 #### Lab Creating an Azure AD B2C and Connect an Application
 This lab provides the links to create an Azure AD B2C directory, a sample application and connect that application to the directory for authentication.  There are several choices for the application so you can choose the one that makes the most sense to you.
@@ -115,3 +155,7 @@ Below is a link to tutorial on how to create an Azure AD B2C directory from the 
 ### More Labs and Resources
 More Labs https://certprep.azurewebsites.net/
 Docs and Labs http://docs.microsoft.com 
+
+* **Videos of the NYC event on 6/2017 can be found here: http://itproguru.com/expert/2017/07/70-534-azure-certification-jump-start-architecting-azure-solutions-event-series-content-v2017-06/**
+
+* **Mark Grimes @ MSFT Certification Exam Overview 70-534 https://mva.microsoft.com/en-US/training-courses/certification-exam-overview-70534-architecting-microsoft-azure-solutions-17406**
